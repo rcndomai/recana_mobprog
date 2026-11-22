@@ -1,6 +1,8 @@
 # recana_mobprog
 
-## Laboratory Discussion: Integrating Images in the Newsfeed
+## Lab Activity 1: discussion
+
+Integrating Images in the Newsfeed
 
 - `NewsfeedCard` uses Flutter's `Image` widget with `AssetImage` to display a post photo. 
 - `hasImage` property controls whether that image is shown. 
